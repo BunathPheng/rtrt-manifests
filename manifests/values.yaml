@@ -1,8 +1,8 @@
 namespace: smartops-api
 
 image:
-  imageRepository: docker.io/phengbunath/rtrt
-  tag: 1
+  imageRepository: phengbunath/rtrt
+  tag: 2
 
 service:
   type: ClusterIP
